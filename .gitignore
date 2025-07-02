@@ -1,0 +1,8 @@
+# Environment Files
+.vs/
+
+# Directories
+node_modules/
+
+
+.env
